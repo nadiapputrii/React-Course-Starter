@@ -1,2 +1,2 @@
-# React-Course-Starter
+# react-course-starter
 Created with CodeSandbox
